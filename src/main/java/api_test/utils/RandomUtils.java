@@ -1,4 +1,4 @@
-package utils;
+package api_test.utils;
 
 import java.util.concurrent.ThreadLocalRandom;
 

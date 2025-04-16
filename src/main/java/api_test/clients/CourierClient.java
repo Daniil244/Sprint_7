@@ -1,8 +1,8 @@
-package clients;
+package api_test.clients;
 
-import config.ApiConfig;
-import models.CreateCourier;
-import models.LoginCourier;
+import api_test.config.ApiConfig;
+import api_test.models.CreateCourier;
+import api_test.models.LoginCourier;
 import io.restassured.response.Response;
 import static io.restassured.RestAssured.given;
 

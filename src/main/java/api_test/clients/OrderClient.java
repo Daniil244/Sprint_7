@@ -1,8 +1,8 @@
-package clients;
+package api_test.clients;
 
-import config.ApiConfig;
+import api_test.config.ApiConfig;
 import io.restassured.response.Response;
-import models.CreateOrder;
+import api_test.models.CreateOrder;
 
 import static io.restassured.RestAssured.given;
 

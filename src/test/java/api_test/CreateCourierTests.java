@@ -1,3 +1,5 @@
+package api_test;
+
 import api_test.clients.CourierClient;
 import api_test.models.CreateCourier;
 import io.qameta.allure.Step;
